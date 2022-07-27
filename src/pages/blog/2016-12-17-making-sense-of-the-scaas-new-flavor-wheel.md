@@ -40,3 +40,12 @@ The coffee taster attempts to measure aspects of the coffee's taste, specificall
 	width: 100vw;background:rgba(255,0,0,0.4); color:rgba(200,0,0,0.8); font-weight:bold; border-radius:5px; padding:1rem;">This is within my div<br><br>Hello!!!!!!!!!</div>
 
 <style>h1{display:none;)</style>
+
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="100%"
+    height="200"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik">
+</iframe>
+
+<script>console.log('Hello console!');</script>
